@@ -1,0 +1,8 @@
+C:\ADS\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\ADS\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\ADS\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\ADS\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+C:\ADS\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.SuggestedBindingRedirects.cache
+C:\ADS\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\ADS\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\ADS\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
